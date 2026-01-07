@@ -1,4 +1,4 @@
-````mdx
+
 # AG-UI Events: The Complete Guide
 
 ## What Are Events?
